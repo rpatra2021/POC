@@ -1,0 +1,10 @@
+{
+    "description" : "Test please ignore",
+    "image": "ipfs://QmfXoG9uwYNSYSxTZ5aP3FAu4PV3V6Q3AJZ13vQ6WQKSey",
+    "name": "Test NFT",
+    "attributes": [
+        {"trait_type": "Base", "value": "Toaster Head"},
+        {"trait_type": "Color", "value": "Blue"},
+        {"trait_type": "Expression", "value": "Dejected"}
+    ]
+}
